@@ -5,7 +5,6 @@ import org.apache.logging.log4j.Logger;
 
 import java.text.DecimalFormat;
 
-
 public class MainApp {
 
     static final Logger log = LogManager.getLogger(MainApp.class);
